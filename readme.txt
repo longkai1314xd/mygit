@@ -6,3 +6,6 @@ Creating a new branch is quick and simple.
 something in dev chhanged.
 add files hello.py to test command stash.
 add merge
+
+
+I spent 3 minutes to fix this bug.
